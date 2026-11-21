@@ -1,0 +1,19 @@
+{
+  "_about": "Answer key written by reading the scripts (loglines, continuity notes, action lines). 'certain' items are scored; 'unsure' items should go to human review rather than be merged automatically.",
+  "items": [
+    {"label": "LADY JULIANA", "eps": [1, 50], "expect": "JULIANA", "certainty": "certain", "why": "same name with title"},
+    {"label": "THE FORMER GROOM", "eps": [1, 3], "expect": "GERALD", "certainty": "certain", "why": "E1 logline: fiance Gerald abandons her at the altar"},
+    {"label": "LADY IN GOLD GOWN", "eps": [1, 3], "expect": "CLARISSA", "certainty": "certain", "why": "E1: Gerald leaves her for her sister Clarissa; Matriarch gestures 'toward Clarissa, who stands elegantly in gold'"},
+    {"label": "LADY CLARISSA", "eps": [37, 37], "expect": "CLARISSA", "certainty": "certain", "why": "same name with title"},
+    {"label": "LADY CATHERINE", "eps": [27, 27], "expect": "CATHERINE", "certainty": "certain", "why": "same name with title"},
+    {"label": "MYSTERIOUS BEARDED MAN", "eps": [4, 6], "expect": "ALEXANDER", "certainty": "certain", "why": "Juliana's husband; E27/E35 reveal the husband is Alexander"},
+    {"label": "THE BEARDED STRANGER", "eps": [3, 3], "expect": "ALEXANDER", "certainty": "certain", "why": "E3 stranger who proposes = the husband = Alexander"},
+    {"label": "SCARRED BEARDED MAN", "eps": [7, 7], "expect": "ALEXANDER", "certainty": "certain", "why": "E7 'her stoic new husband' returns from the forest"},
+    {"label": "ALEXANDER'S MOTHER", "eps": [35, 42], "expect": "DOWAGER DUCHESS", "certainty": "certain", "why": "E27 Dowager Duchess recognises her lost son's ring; E35 Alexander's elderly mother"},
+    {"label": "BLOND NOBLEMAN", "eps": [37, 44], "expect": "RUPERT", "certainty": "certain", "why": "E37/E40 action lines: 'Blond Nobleman Rupert', 'Rupert, the Blond Nobleman'"},
+    {"label": "BLOND NOBLEMAN", "eps": [27, 28], "expect": "RUPERT", "certainty": "certain", "why": "E27 logline: Rupert and Catherine storm the bedchamber; same costume label as E37"},
+    {"label": "BLOND NOBLEMAN", "eps": [2, 2], "expect": "?", "certainty": "unsure", "why": "Speaks as Juliana's family at her wedding ('Do not disgrace us'); probably NOT Rupert"},
+    {"label": "MATRIARCH", "eps": [1, 1], "expect": "LADY ASHCROFT", "certainty": "unsure", "why": "Probably the stepmother (E5 logline) but never named in the script"},
+    {"label": "NOBLE MATRIARCH", "eps": [3, 3], "expect": "LADY ASHCROFT", "certainty": "unsure", "why": "Same costume as E1 Matriarch; never named"}
+  ]
+}

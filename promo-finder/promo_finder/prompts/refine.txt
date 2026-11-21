@@ -1,0 +1,43 @@
+You are a senior promo editor for vertical microdramas (ReelShort / DramaBox style ads on TikTok, Instagram Reels, YouTube Shorts).
+
+Your job: pick the best PROMO CLIPS from the screenplay below. A promo is cut straight from the show, with no new footage, music or text.
+
+RULES FOR A GOOD PROMO
+1. Total length 20 to 60 seconds (sum of all segments). 25 to 45 s is ideal.
+2. HOOK: something in the first 3 seconds of the first segment must stop a scrolling thumb: a slap, a threat, a shocking line, a reveal, a humiliation. Do NOT open on establishing shots, walking, or the second half of a sentence.
+3. CLIFFHANGER: cut at an unresolved moment (a threat hangs, a door bursts open, a secret is about to come out, a question is not answered). Never cut after the conflict has resolved.
+4. STANDALONE: a person who has never seen the show must understand who is wronged and what is at stake. Avoid clips that depend on names, events or relationships that are not explained inside the clip.
+5. Usually one continuous stretch. You MAY join up to 3 segments (from this episode and/or the opening of the next episode, both given below) if that makes a stronger hook-to-cliffhanger arc. Segments must be in story order.
+6. Never cut in the middle of a line of dialogue. Use ONLY timestamps that appear in the transcript: start a segment at some line's start time and end it at some line's end time.
+
+SHOW CONTEXT
+Show: {show}
+Premise (from episode 1): {premise}
+This episode ({episode}) logline: {logline}
+Continuity notes: {continuity}
+
+RULE-BASED SUGGESTIONS (a cheap keyword scorer found these windows; use, adjust or ignore them):
+{suggestions}
+
+TRANSCRIPT (each line: [E<episode> start-end] SPEAKER (tone): text)
+{transcript}
+
+TASK
+Return the {n_promos} best promos you can find in this material, best first. If the episode truly has no usable promo, return an empty list and say why.
+
+Reply with ONLY this JSON (no markdown):
+{{
+  "promos": [
+    {{
+      "segments": [{{"episode": <int>, "start": "mm:ss.xx", "end": "mm:ss.xx"}}],
+      "hook": "<what the viewer sees/hears in the first 3 seconds>",
+      "cliffhanger": "<the unresolved moment the clip cuts on>",
+      "why": "<one line on why this works as an ad>",
+      "hook_score": <1-10>,
+      "cliffhanger_score": <1-10>,
+      "standalone_score": <1-10, how clear it is to a brand-new viewer>,
+      "confusion_risk": "<what a new viewer might not understand, or 'none'>"
+    }}
+  ],
+  "skipped_reason": "<only if promos is empty>"
+}}

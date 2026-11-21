@@ -1,0 +1,136 @@
+{
+  "_about": "Verified legal facts the assistant may cite. Each entry was checked against the listed source on the verified_on date. The assistant may ONLY cite these ids. To add law: add an entry with a source, then it becomes citable.",
+  "entries": [
+    {
+      "id": "CPA-69",
+      "topic": "consumer",
+      "act": "Consumer Protection Act, 2019",
+      "section": "69",
+      "title": "Time limit to file a consumer complaint",
+      "text": "A consumer complaint must be filed within two years from the date the cause of action arose (for example, the date the refund was due or the defect was found). A Commission can accept a late complaint only if you show sufficient cause for the delay.",
+      "source": "https://righttoinformation.wiki/how-to-file-consumer-forum-complaint-e-jagriti-dcdrc-india",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "CPA-34",
+      "topic": "consumer",
+      "act": "Consumer Protection Act, 2019, with the Jurisdiction Rules, 2021",
+      "section": "34",
+      "title": "Which Consumer Commission hears your case",
+      "text": "The District Commission hears complaints where the value of goods or services paid is up to Rs 50 lakh. The State Commission hears above Rs 50 lakh up to Rs 2 crore, and the National Commission above Rs 2 crore.",
+      "source": "https://taxclue.in/rate-chart/consumer-commission-fees",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "CPA-FEE",
+      "topic": "consumer",
+      "act": "Consumer Protection (Consumer Disputes Redressal Commissions) Rules, 2020",
+      "section": "",
+      "title": "Filing fee",
+      "text": "There is no filing fee at the District Commission when the value paid is up to Rs 5 lakh. Above Rs 5 lakh up to Rs 10 lakh the fee is Rs 200, and it rises with the amount.",
+      "source": "https://nyaaya.org/legal-explainer/fee-for-making-complaints/",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "CPA-38",
+      "topic": "consumer",
+      "act": "Consumer Protection Act, 2019",
+      "section": "38",
+      "title": "How fast the Commission should decide",
+      "text": "A Commission should try to decide a complaint within 3 months, or 5 months if goods need lab testing. In practice it often takes longer.",
+      "source": "https://righttoinformation.wiki/_export/xhtml/consumer-court-how-to-file-india",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "E-JAGRITI",
+      "topic": "consumer",
+      "act": "Department of Consumer Affairs",
+      "section": "",
+      "title": "Where to file online",
+      "text": "Consumer complaints are filed online on the e-Jagriti portal (https://e-jagriti.gov.in), which replaced e-Daakhil from 1 January 2025. You can file it yourself without a lawyer.",
+      "source": "https://en.wikipedia.org/wiki/E-Jagriti",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "NCH",
+      "topic": "consumer",
+      "act": "National Consumer Helpline",
+      "section": "",
+      "title": "Free first step before a case",
+      "text": "You can register a grievance with the National Consumer Helpline by calling 1915 or 1800-11-4000, or on consumerhelpline.gov.in. It is free and often gets companies to respond before you file a case.",
+      "source": "https://consumerhelpline.gov.in/public/contact",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "MTA-2021",
+      "topic": "deposit",
+      "act": "Model Tenancy Act, 2021",
+      "section": "",
+      "title": "Security deposit rules (only where your state adopted them)",
+      "text": "The Model Tenancy Act caps the security deposit at two months' rent for homes and says it should be refunded when the tenant hands back the premises, after lawful deductions. It is a model law: it applies only in states that have adopted it, because rent is a state subject. Otherwise your state's own rent law applies.",
+      "source": "https://prsindia.org/billtrack/the-model-tenancy-act-2021",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "DEPOSIT-ROUTE",
+      "topic": "deposit",
+      "act": "General civil law (practice note, not a statute section)",
+      "section": "",
+      "title": "How deposit disputes are usually handled",
+      "text": "Usual path: written demand, then a legal notice giving a deadline, then free mediation through the District Legal Services Authority or Lok Adalat, then a civil suit for recovery of money (or the Rent Authority/Rent Court in states that set one up). A legal notice to a private landlord is not legally required but is the normal first step and creates a paper trail.",
+      "source": "practice note; confirm locally with a lawyer or legal aid",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "COW-17",
+      "topic": "salary",
+      "act": "Code on Wages, 2019",
+      "section": "17",
+      "title": "When salary must be paid",
+      "text": "Section 17 sets time limits for paying wages. For monthly-paid employees the reported deadline is by the 7th of the following month. When someone leaves (resigns or is removed), pending wages must be paid within two working days.",
+      "source": "https://future.indiankanoon.org/doc/151218690/",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "COW-45",
+      "topic": "salary",
+      "act": "Code on Wages, 2019",
+      "section": "45",
+      "title": "How to claim unpaid salary",
+      "text": "You can file a claim for unpaid or delayed wages before the authority appointed by the government under section 45, within three years from when the claim arose (later only with sufficient cause). The employee, their registered trade union, or the Inspector-cum-Facilitator can file, and one application can cover many employees of the same employer.",
+      "source": "https://lawgist.in/payment-of-wages-act/45",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "COW-STATUS",
+      "topic": "salary",
+      "act": "Code on Wages, 2019",
+      "section": "",
+      "title": "Which law applies now",
+      "text": "The Code on Wages came into force on 21 November 2025 and replaced the Payment of Wages Act, 1936 and Minimum Wages Act, 1948. Some rules and claim authorities depend on your state, so if no authority is set up in your area yet, go to your district Labour Commissioner / Labour Department office.",
+      "source": "https://www.taxmann.com/post/blog/analysis-the-code-on-wages/",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "NALSA",
+      "topic": "general",
+      "act": "Legal Services Authorities Act, 1987",
+      "section": "",
+      "title": "Free legal aid",
+      "text": "The National Legal Services Authority helpline 15100 (toll free) gives free legal advice and can connect eligible people to a panel lawyer. You can also visit your District Legal Services Authority (DLSA) for free advice, mediation and Lok Adalat.",
+      "source": "https://nalsa.gov.in/promoting-inclusive-legal-system/",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "BNS-2023",
+      "topic": "general",
+      "act": "Bharatiya Nyaya Sanhita, 2023",
+      "section": "",
+      "also_mentions": ["318", "420"],
+      "title": "IPC has been replaced",
+      "text": "The Indian Penal Code was replaced by the Bharatiya Nyaya Sanhita from 1 July 2024. For example, cheating that used to be IPC 420 is now under BNS section 318. Criminal matters are outside what this assistant handles; talk to a lawyer or the police.",
+      "source": "https://blog.ipleaders.in/section-420-bns-cheating-318/",
+      "verified_on": "2026-11-21"
+    }
+  ]
+}
